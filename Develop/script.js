@@ -15,7 +15,7 @@ function PasswordCriteria() {
   var length = prompt("How many characters would you like your password to be (8-128 characters)?");
     if (isNaN(length) || length < 8 || length > 128) {
     alert("Please enter a valid password length between 8 and 128 characters.");
-    return "";
+    return null;
   }
 
   var includeLowercase = confirm("Include lowercase characters?");
@@ -26,7 +26,7 @@ function PasswordCriteria() {
   // Validate that at least one character type is selected
   if (!includeLowercase && !includeUppercase && !includeNumeric && !includeSpecial) {
     alert("Please select at least one character type.");
-    return "";
+    return null;
   }
 
   // Return an object with the selected criteria

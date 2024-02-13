@@ -14,6 +14,6 @@ Features:
 
 *Random Password Generation. The application generates random passwords based on the selected criteria, providing a secure and unpredictable result.
 
-*Readability and Consistency. The codebase follows consistent naming conventions and is organized for readability and maintainability. Object-oriented principles are employed to encapsulate related functionality.
+*Readability and Consistency. The codebase follows consistent naming conventions and is organized for readability and maintainability. 
 
 *Responsive Design. The user interface is designed to adapt gracefully to different screen sizes, ensuring accessibility across a range of devices.
