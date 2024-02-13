@@ -17,3 +17,7 @@ Features:
 *Readability and Consistency. The codebase follows consistent naming conventions and is organized for readability and maintainability. 
 
 *Responsive Design. The user interface is designed to adapt gracefully to different screen sizes, ensuring accessibility across a range of devices.
+
+
+Link to the repo: https://github.com/Igimbayeva/JS_Password_Generator
+Live site url: [https://igimbayeva.github.io/JS_Password_Generator]
