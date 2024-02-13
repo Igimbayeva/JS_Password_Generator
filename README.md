@@ -20,4 +20,7 @@ Features:
 
 
 Link to the repo: https://github.com/Igimbayeva/JS_Password_Generator
-Live site url: [https://igimbayeva.github.io/JS_Password_Generator]
+Live page url: [https://igimbayeva.github.io/JS_Password_Generator]
+
+Link to the Pictures of the deployed page - https://github.com/Igimbayeva/JS_Password_Generator/tree/main/Assets
+
